@@ -61,7 +61,7 @@ p {
     #03c7fd 50%,
     #40db5c 100%
   );
-  color: white; /* Ensures text is readable on top of gradient */
+  color: black; /* Ensures text is readable on top of gradient */
   border: none; /* Remove border if needed */
   transition: background-image 0.3s ease; /* Smooth transition for hover effect */
 }
@@ -109,7 +109,7 @@ p {
 .line {
   width: 500px;
   height: 1px;
-  background-color: white;
+  background-color: black;
 }
 
 .blue-line {
